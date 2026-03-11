@@ -47,17 +47,15 @@ Implemented reinforcement learning + classic search approaches (Minimax, Zobrist
 
 ## Connect With Me
 
-- 📧 Email: **[mailto:biniyamdemissew112@gmail.com]**
-- 💼 LinkedIn: **[https://www.linkedin.com/in/biniyam-demissew/]**
-- 🧩 LeetCode: **[https://leetcode.com/biniyam112]**
-- 🗂️ Stack Overflow: **[https://stackoverflow.com/users/10752169/biniyam112]**
+- 📧 Email: **mailto:biniyamdemissew112@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/biniyam-demissew/**
+- 🧩 LeetCode: **https://leetcode.com/biniyam112**
+- 🗂️ Stack Overflow: **https://stackoverflow.com/users/10752169/biniyam112**
 
 ---
 
 ## GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-![Biniyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=biniyam112&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyam112&layout=compact&theme=tokyonight)
 
 <!---
