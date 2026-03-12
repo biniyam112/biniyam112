@@ -1,4 +1,4 @@
-# Hi, I'm Biniyam Zergaw 👋
+# Hi, I'm Biniyam 👋
 
 M.S. Data Science student at Fordham University with professional experience in machine learning, data engineering, and frontend development.  
 Looking for internship opportunities
