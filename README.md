@@ -22,9 +22,7 @@ M.S. Data Science candidate at Fordham University (4.00 GPA) with 3+ years of in
 |---|---|---|
 | **Research Fellow** | Tortorella Statistics for Social Justice Initiative | Jun 2026 – Aug 2026 |
 | **Graduate Research Assistant** | Fordham University | Aug 2025 – Present |
-| **AI Model Trainer / Data Scientist** | Turing (contract) | May 2025 – Aug 2025 |
 | **Project Lead & Software Engineer** | RateEat | Jan 2023 – Oct 2024 |
-| **Software Engineer** | SkillBridge | Aug 2022 – Jan 2023 |
 
 ---
 
