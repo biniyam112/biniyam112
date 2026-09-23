@@ -3,16 +3,16 @@
 **Data Scientist · Software Engineer**
 M.S. Data Science candidate at Fordham University (4.00 GPA) with 3+ years of industry experience across machine learning, data engineering, and full-stack development.
 
-📍 Brooklyn, NY — open to relocation · 🔎 Open to Summer 2027 internships and new grad roles
+📍 Brooklyn, NY open to relocation · 🔎 Open to Summer 2027 internships and new grad roles
 
 ---
 
 ## What I'm working on
 
-- 🏚️ **Housing-distress research** — Working with the [University Neighborhood Housing Program](https://unhp.org/) on how building distress gets measured. Their existing index captures financial distress well; I'm developing a complementary measure aimed at physical and habitability outcomes, which improves discrimination across **all 7 outcomes** tested (up to **+0.106 AUC**, mean +0.059). Co-authoring a paper on the findings.
-- 🎙️ **Speech & audio ML** — Residual CNNs and recurrent baselines for spoken language identification across 114K+ clips.
-- 🤖 **LLM systems & evaluation** — Building retrieval-augmented pipelines with LangChain and benchmarking model output with pass@k, exact-match, and structured rubrics; most recently on code generation and multi-step mathematical reasoning.
-- ⚙️ **Production data pipelines** — OCR, scraping, and API ingestion into queryable stores (PostgreSQL, Snowflake, Elasticsearch), with the indexing and query tuning to keep them fast at scale.
+- 🏚️ **Housing-distress research** Working with the [University Neighborhood Housing Program](https://unhp.org/) on how building distress gets measured. Their existing index captures financial distress well; I'm developing a complementary measure aimed at physical and habitability outcomes, which improves discrimination across **all 7 outcomes** tested (up to **+0.106 AUC**, mean +0.059). Co-authoring a paper on the findings.
+- 🎙️ **Speech & audio ML** Residual CNNs and recurrent baselines for spoken language identification across 114K+ clips.
+- 🤖 **LLM systems & evaluation** Building retrieval-augmented pipelines with LangChain and benchmarking model output with pass@k, exact-match, and structured rubrics; most recently on code generation and multi-step mathematical reasoning.
+- ⚙️ **Production data pipelines** OCR, scraping, and API ingestion into queryable stores (PostgreSQL, Snowflake, Elasticsearch), with the indexing and query tuning to keep them fast at scale.
 
 ---
 
@@ -44,7 +44,7 @@ Predicted ride-sharing match outcomes across NYC for-hire vehicle trips, showing
 
 ### 📱 [Vero / ScreenStreaks](https://github.com/biniyam112/screenstreaks)
 `Flutter` `Supabase`
-Cross-platform screen-time app with streaks, group accountability, and social leaderboards — built on native iOS Screen Time and Android UsageStatsManager APIs with real-time sync and home-screen widgets. Currently in Google Play closed testing.
+Cross-platform screen-time app with streaks, group accountability, and social leaderboards, built on native iOS Screen Time and Android UsageStatsManager APIs with real-time sync and home-screen widgets. Currently in Google Play closed testing.
 
 ---
 
@@ -60,19 +60,19 @@ Cross-platform screen-time app with streaks, group accountability, and social le
 
 ## Education
 
-**M.S. Data Science** — Fordham University, New York · 2025–2027 (expected) · **4.00 GPA**
+**M.S. Data Science** Fordham University, New York · 2025–2027 (expected) · **4.00 GPA**
 *Data Mining, Data Visualization, Machine Learning, NLP, Machine Learning in Finance*
 
-**B.Sc. Software Engineering** — Addis Ababa University · 2018–2022 · **Great Distinction**
+**B.Sc. Software Engineering** Addis Ababa University · 2018–2022 · **Great Distinction**
 
 ---
 
 ## Achievements
 
-- 🏅 **Top 15% on LeetCode** — 700+ problems solved across LeetCode and Codeforces
-- 🇺🇳 **United Nations Frontier Tech Leaders** — 2025 Machine Learning graduate
-- 🎓 **Africa to Silicon Valley** — 2022 graduate, year-long DSA training
-- 🌍 **Exhibitor, GITEX Africa 2024** — Marrakech, Morocco
+- 🏅 **Top 15% on LeetCode** 700+ problems solved across LeetCode and Codeforces
+- 🇺🇳 **United Nations Frontier Tech Leaders**, 2025 Machine Learning graduate
+- 🎓 **Africa to Silicon Valley** 2022 graduate, year-long DSA training
+- 🌍 **Exhibitor, GITEX Africa 2024**, Marrakech, Morocco
 - 🧑‍🏫 **Project Mentor**, Generative AI for Africa Hackathon (2023)
 - 📜 Supervised Machine Learning: Regression and Classification — Stanford Online
 
